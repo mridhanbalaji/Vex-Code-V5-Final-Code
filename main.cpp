@@ -1,7 +1,7 @@
 /*----------------------------------------------------------------------------*/
 /*                                                                            */
 /*    Module:       main.cpp                                                  */
-/*    Author:       C:\Users\adity                                            */
+/*    Author:       C:\Users\MridhanBalaji                                            */
 /*    Created:      Mon Feb 21 2022                                           */
 /*    Description:  V5 project                                                */
 /*                                                                            */
